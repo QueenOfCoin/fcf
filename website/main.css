@@ -1,0 +1,334 @@
+.container {
+	
+	border: 1px solid grey;
+	
+}
+
+.box {
+    text-align: center;
+    background-color: rgb(12, 12, 88);
+    color: #eee;
+    padding: 1px;
+}
+
+.heading {
+    color: rgb(171, 196, 31);
+    text-transform: uppercase;
+}
+
+.heading1 {
+    color: rgb(12, 12, 88);
+    text-transform: uppercase;
+	text-align: center;
+	position: relative;
+	left: 150px;
+	top: 200px;
+	
+}
+
+.content2 {
+    color: rgb(12, 12, 88);
+	font-size: 16px;
+	
+	position: relative;
+	left: 150px;
+	top: 200px;
+}
+
+.content {
+    color: #fff;
+	
+}
+
+.logo {
+
+       width: 85px;
+	   margin-left: 80px;
+	   
+     }
+.logo2 {
+	width: 50px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+/**{
+	box-sizing: border-box;
+}
+
+.column {
+	  float: left;
+	  padding-left: 10px;
+	 
+}*/
+/*
+.row::after {
+  content: "";
+  clear: both;
+  display: table
+}
+*/
+	 
+.box1 {
+     background-color: #fff;
+    padding: 1px;
+	
+	
+}
+.box2 {
+	
+	   color: white;
+	   background-color:  #00162b;
+	   padding: 1px;
+	   text-align: center;
+	   font-weight: bold;
+}
+
+
+.link {  
+
+    color: grey;
+	text-decoration:none;
+	text-align:center;
+	padding:10px;
+	font-weight: bold;
+	display:block;
+	width:100%;
+}
+
+
+
+.link:hover {  
+    color:#fff ;
+}
+
+
+.box3:hover {
+	background-color: #fb9613;
+	
+}
+.box3 {
+	background-color: rgb(12, 12, 88);
+	
+}
+
+.box4 {
+	width:100%;
+	height: 400px;
+	text-align: left;
+    background-color: fb9613;
+    color: #eee;
+	
+}
+
+.box5 {
+	text-align: center;
+	position:absolute;
+}
+
+.box6 {  
+
+     width:100%;
+	height: 150px;
+	text-align: left;
+    color: #eee;
+}
+.laptop {
+	
+	width: 100%;
+}
+
+.box7 {
+	text-align: center;
+	width:100%;
+    background-color: #fff;
+    color: #eee;
+}
+
+.heading2 {
+	text-transform: capitalize;
+	font-weight:25px;
+	color: rgb(12, 12, 88);
+	
+}
+
+.content3 {
+	font-size: 16px;
+	color: rgb(12, 12, 88);
+	font-weight:1px;
+	text-align: center;
+}
+
+.content4 {
+	font-size: 16px;
+	color: rgb(12, 12, 88);
+}
+
+.icons {
+	
+	width: 50px;
+	height: 50px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 8px;
+	
+	
+	
+}
+
+.box8 {
+	background-color: #fff;
+	text-align: center;
+    color: rgb(12, 12, 88);
+	border: 5px solid #FFEBCD;
+	}
+	
+.button {
+	
+	background-color: #00162b;
+	 color: grey;
+	font-weight: bold;
+	padding: 10px;
+	cursor:pointer;
+}
+.button2:hover {
+	           background-color: rgb(12, 12, 88);
+			   color: #fff;
+}
+.heading3 {
+	font-size: 18px;
+}
+
+.box9 {
+    text-align: center;
+    background-color: rgb(12, 12, 88);
+    color: #eee;
+    padding: 1px;
+}
+
+.box10 {
+    text-align: center;
+    background-color: rgb(12, 12, 88);
+    color: #eee;
+    padding: 1px;
+}
+
+.box11 {
+    background-color: rgb(12, 12, 88);
+    padding: 1px;
+	color: #fff;
+}
+.goodscore {
+	
+	width: 80%;
+}
+
+.content5 {text-align: left;
+ color: #fff;
+}
+
+.heading4{
+	color: #fff;
+	text-align: left;
+}
+
+.footer {
+	background-color: #00162b;
+     color: #fff; 
+	
+}
+.input {width: 100%;
+         padding:10px;
+		border: 2px solid #fff;
+		background-color: #00162b;
+		border: 1px solid#fff;
+	     color: #fff;
+}
+
+.summit{width: 100%;
+         padding:10px;
+		background-color: rgb(12, 12, 88);
+		color: #fff;
+	    font-weight: bold;
+		text-align : center;
+		border: 1px solid #fff;
+		margin-right: 20px;
+		
+}
+
+.summit:hover {
+	           background-color: #fb9613;
+			   color: #fff;
+			   
+}
+
+.content6 {
+	       font-size: 14px;
+		   color: #fff;
+		   text-align: center;
+		   padding: 5px;
+}
+ .content7{
+	 margin: 35px;
+		  
+	  }
+.box12 {
+	    background-color:#00162b;
+		
+}
+
+.stocks {
+	color: #fff;
+	
+}
+
+.box14 {
+	   width: 100%;
+	   background-color: #00162b;
+	   border-top-style: solid;
+	   border-width: 1px;
+	   border-color: #fff;
+	   color: #fff;
+	   text-align: center;
+	  }
+	
+.box13 { 
+     background-color: #00162b;
+	 text-align: center;
+	 color: grey;
+	  }
+
+.cafafans {
+	   color:#fff;
+	
+}
+
+.box15 {
+	 background-color:#00162b;
+	 text-align:center;
+ 
+}
+.content8 {
+	      color:#00162b;
+		  font-size: 23px;
+		  font-family: bold
+}
+
+.content9{
+	margin-left: 172px;
+	color: fb9613;
+     font-size: 13px;
+     font-family: bold
+}
+.box16{
+	margin-right: 50px;
+	width: 100%;
+}
+.box17 {
+	 background-color:#fb9613;
+}
+.box17:hover {
+	 background-color:#00162b;
+}

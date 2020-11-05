@@ -1,0 +1,206 @@
+.container {background-color: ;
+	       border: 1px solid grey;
+	
+} 
+.box {
+    text-align: center;
+    background-color: rgb(12, 12, 88);
+    color: #eee;
+    padding: 1px;
+}
+.box1 {
+     background-color: #fff;
+    padding: 1px;
+}
+.logo {
+
+       width: 85px;
+	   margin-left: 80px;
+	   
+     }
+
+.content8 {
+	      color:#00162b;
+		  font-size: 23px;
+		  font-family: bold
+}
+
+.content9{
+	margin-left: 172px;
+	color: fb9613;
+     font-size: 13px;
+     font-family: bold
+}
+.link {  
+
+    color: grey;
+	text-decoration:none;
+	text-align:center;
+	padding:10px;
+	font-weight: bold;
+	display:block;
+	width:100%;
+}
+
+
+
+.link:hover {  
+    color:#fff ;
+}
+
+
+.box3:hover {
+	background-color: #fb9613;
+	
+}
+.box3 {
+	background-color: rgb(12, 12, 88);
+	
+}
+.laptop {  
+	width: 100%;
+	height: 150px;
+ 
+ }
+ 
+ .logo4{
+	 width: 100%;
+	height: 250px;
+ }
+ 
+ .heading1 {
+	    font-size: 20px;
+		color:  rgb(12, 12, 88);
+		text-align: center;
+ }
+ .content1{
+	     color: rgb(12, 12, 88);
+	      text-align: left;
+ }
+ 
+ .box4 {
+	  background-color: #fb9613;
+	  padding: 20px;
+ }
+ .box5{
+	 background-color: #fff;
+ }
+ .heading2 {
+	 color: rgb(12, 12, 88);
+	text-transform: uppercase;
+	text-align:center;
+ }
+ 
+ .content2 {
+	        color: rgb(12, 12, 88);
+			text-align:center;
+ }
+ 
+ .heading3 {
+	 color:rgb(12, 12, 88);
+	 text-align: center;
+	 
+ }
+ 
+ .box6 {
+	 background-color: #fff;
+ }
+ 
+ .footer {
+	background-color: #00162b;
+     color: #fff; 
+	
+}
+.input {width: 100%;
+         padding:10px;
+		border: 2px solid #fff;
+		background-color: #00162b;
+		border: 1px solid  #fff;
+	     color: #fff;
+}
+
+.summit{width: 100%;
+         padding:10px;
+		background-color:  rgb(12, 12, 88);
+		color: #fff;
+	    font-weight: bold;
+		text-align : center;
+		border: 1px solid  #fff;
+		margin-right: 20px;
+		
+}
+
+.summit:hover {
+	           background-color:#fb9613;
+			   color: #fff;
+			   
+}
+.box12 {
+	    background-color:#00162b;
+}
+
+.content6 {
+	       font-size: 14px;
+		   color: #fff;
+		   text-align: center;
+		   padding: 5px;
+}
+
+.box13 { 
+     background-color: #00162b;
+	 text-align: center;
+	 color: grey;
+	  }
+	  
+.content7{
+	 margin: 35px;
+		  
+	  }
+.box14 {
+	   width: 100%;
+	   background-color: #00162b;
+	   border-top-style: solid;
+	   border-width: 1px;
+	   border-color: #fff;
+	   color: #fff;
+	   text-align: center;
+	  }
+.cafafans {
+	   color:#fff;
+	
+}
+.box15 {
+	 background-color:#00162b;
+	 text-align:center;
+ 
+}
+.logo2 {
+	width: 50px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	
+.box16{
+	margin-right: 50px;
+	width: 100%;
+}
+.box8 {
+	 background-color: #fb9613;
+	
+}
+
+.contact { text-align: center;
+    background-color: #fb9613;
+	color: rgb(12, 12, 88);}
+
+.stocks {
+	color: #fff;
+	
+}
+.box17 {
+	 background-color:#fb9613;
+}
+.box17:hover {
+	 background-color:#00162b;
+}
